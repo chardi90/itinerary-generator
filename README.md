@@ -7,6 +7,7 @@ Built Python on Google Colab Notebook using a AI API and a tailored AI prompt.
 ## Features  
 - Formatted response with Rich Markdown
 - Answer includes weather forecast in both starting point and destination
+- Cost estimates in £/$/€
 
 ## Usage  
 
